@@ -13,6 +13,19 @@ Education
 ======
 B.A. Honors candidate in Sociology - Data Science, Markets and Management track, Stanford University, 2019 
 
+Relevant Coursework
+======
+[Computational Journalism](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20172018&q=comm177a&collapse=)
+
+[Investigative Journalism](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20172018&q=comm177i&collapse=)
+
+[Intro to Journalism](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20172018&q=comm104w&collapse=)
+
+[Advanced Data Analysis in R](https://datalab.stanford.edu)
+
+[Data Mining & Analysis](http://web.stanford.edu/class/stats202/)
+
+
 Work experience
 ======
 * Sept 2018 ~ present: Research Assistant
