@@ -45,8 +45,8 @@ Skills
 
 Languages
 ======
-English (native)
-Japanese (native)
+  English (native)
+  Japanese (native)
 
 Publications
 ======
@@ -68,5 +68,5 @@ Publications
   
 Service and leadership
 ======
-East Palo Alto Stanford Academy - Mentor / Tutor
-National Lawyers Guild Legal Observer 
+  East Palo Alto Stanford Academy - Mentor / Tutor
+  National Lawyers Guild Legal Observer 
