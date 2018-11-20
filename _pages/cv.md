@@ -27,6 +27,8 @@ Relevant Coursework
 
 [Qualitative Research Methodology](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20172018&q=humbio82a&collapse=)
 
+[Visual Design Fundamentals](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=DESINST%20270:%20VISUAL%20DESIGN%20FUNDAMENTALS&academicYear=20152016)
+
 
 Work experience
 ======
