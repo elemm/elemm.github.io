@@ -40,15 +40,17 @@ Skills
 * HTML / CSS
 * Java 
 * C++
-* Tableau
+* Tableau, CartoDB
 * FOIA requests
+* Building webapps 
+* Data visualization in plot.ly, shiny
 
 Languages
 ======
 English (native)
 <br/>Japanese (native)
 
-Publications
+Clips
 ======
 
 [Changes To State's Bail Reform Bill Turn Supporters Into Opponents](https://www.sfgate.com/news/bayarea/article/Changes-To-State-s-Bail-Reform-Bill-Turn-13162233.php)
