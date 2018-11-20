@@ -29,7 +29,7 @@ Relevant Coursework
 Work experience
 ======
 * Sept 2018 ~ present: Research Assistant
-  *[Computational Policy Lab](https://www.policylab.stanford.edu)
+  * [Computational Policy Lab](https://www.policylab.stanford.edu)
   * Duties included: data analysis in R
   
 * March 2018 ~ present: Editorial Intern
