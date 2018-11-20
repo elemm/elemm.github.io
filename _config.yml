@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Emily Honda Lemmerman / Personal Website & Journalism CV"
+title                    : "Personal Website & Journalism CV"
 title_separator          : "-"
 name                     : &name "Emily Honda Lemmerman"
-description              : &description "personal description"
+description              : &description ""
 url                      : https://elemm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "elemm/elemm.github.io"
