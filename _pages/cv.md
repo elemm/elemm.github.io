@@ -59,6 +59,7 @@ Skills
 * FOIA requests
 * Building webapps 
 * Data visualization in plot.ly, shiny
+* Adobe Photoshop, Illustrator, InDesign
 
 Languages
 ======
