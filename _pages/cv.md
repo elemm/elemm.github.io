@@ -25,6 +25,8 @@ Relevant Coursework
 
 [Data Mining & Analysis](http://web.stanford.edu/class/stats202/)
 
+[Qualitative Research Methodology](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20172018&q=humbio82a&collapse=)
+
 
 Work experience
 ======
@@ -85,3 +87,5 @@ Service and leadership
 ======
  East Palo Alto Stanford Academy - Mentor / Tutor
  <br/>National Lawyers Guild Legal Observer 
+ <br/> Leading Alternative Spring Break trip at Stanford on gentrification in the Bay Area & co-teaching a student-taught course 
+ <br/>[Co-created, taught a course for 2 years on critically considering texts in the Western Canon, to run alongside Stanford's Great Books program](https://expandingthecurriculum.wordpress.com/)
