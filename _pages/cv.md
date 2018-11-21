@@ -42,7 +42,8 @@ Work experience
   
 * Summer 2018: Summer Law Clerk
   * Eviction Defense Collaborative 
-  
+  * Conducting client intake interviews, writing motions and stays for eviction lawsuits.
+
 * Dec 2017 ~ Feb 2018: Research Assistant 
   * Shorenstein Asia-Pacific Research Center, under professor Phillip Lipscy 
   * Japanese-English translation, data analysis in R.
