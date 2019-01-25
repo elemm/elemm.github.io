@@ -83,7 +83,7 @@ Clips
 
 [Silicon Valley's Media Desert](https://stanfordpolitics.org/2018/04/09/silicon-valley-media-desert/)
 
-[Hillary Clinton on Technology, Democracy, and “A New Kind of Cold War](https://stanfordpolitics.org/2017/10/07/event-hillary-clinton/)
+[Hillary Clinton on Technology, Democracy, and “A New Kind of Cold War"](https://stanfordpolitics.org/2017/10/07/event-hillary-clinton/)
 
 [Christmas Tree Lane: Celebrating the Holidays in Palo Alto for 76 years](http://peninsulapress.com/2017/12/19/community-celebrates-seven-decades-of-christmas-tree-lane-in-palo-alto/)
 
