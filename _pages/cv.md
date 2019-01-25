@@ -72,6 +72,9 @@ English (native)
 Clips
 ======
 
+
+[“If I [were] Stanford, I would be threatened by us”: How SCoPE 2035 became the most powerful activist group on campus](https://stanfordpolitics.org/2018/12/10/if-i-were-stanford-i-would-be-threatened-by-us-how-scope-2035-became-the-most-powerful-activist-group-on-campus/)
+
 [Changes To State's Bail Reform Bill Turn Supporters Into Opponents](https://www.sfgate.com/news/bayarea/article/Changes-To-State-s-Bail-Reform-Bill-Turn-13162233.php)
 
 [Bail Reform Bill Considered by California's Legislature](https://www.sfgate.com/news/bayarea/article/Bail-Reform-Bill-Considered-By-California-13140048.php)
