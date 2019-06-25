@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-B.A. Honors candidate in Sociology - Data Science, Markets and Management track, Stanford University, 2019 
+Stanford University B.A. Sociology, conferred with Honors 
+  * senior honors thesis entitled "The Persistence of Detention as Punishment for Failure to Pay Fines:
+ A Case Study in El Paso, TX"
 
 Relevant Coursework
 ======
@@ -54,7 +56,7 @@ Skills
 * R
 * SQL
 * Git
-* Python
+* Python - SciPy, NumPy, NetworkX
 * HTML / CSS
 * Java 
 * C++
@@ -72,6 +74,7 @@ English (native)
 Clips
 ======
 
+[100 Years of Hoover: A History of Stanford’s Decades-Long Debate over the Hoover Institution](https://stanfordpolitics.org/2019/05/11/100-years-of-hoover-a-history-of-stanfords-decades-long-debate-over-the-hoover-institution/)
 
 [“If I [were] Stanford, I would be threatened by us”: How SCoPE 2035 became the most powerful activist group on campus](https://stanfordpolitics.org/2018/12/10/if-i-were-stanford-i-would-be-threatened-by-us-how-scope-2035-became-the-most-powerful-activist-group-on-campus/)
 
@@ -94,5 +97,5 @@ Service and leadership
 ======
  East Palo Alto Stanford Academy - Mentor / Tutor
  <br/>National Lawyers Guild Legal Observer 
- <br/> Leading Alternative Spring Break trip at Stanford on gentrification in the Bay Area & co-teaching a student-taught course 
- <br/>[Co-created, taught a course for 2 years on critically considering texts in the Western Canon, to run alongside Stanford's Great Books program](https://expandingthecurriculum.wordpress.com/)
+ <br/> Led Alternative Spring Break trip at Stanford on gentrification in the Bay Area & co-taught student-initiated course course 
+ <br/>[Co-created, taught student-initiated course for 2 years on critically considering texts in the Western Canon, to run alongside Stanford's Great Books program](https://expandingthecurriculum.wordpress.com/)
