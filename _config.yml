@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Emily Honda Lemmerman"
   avatar           : "headshot.jpg"
-  bio              : "Stanford '19 interested in data journalism & computational social science"
-  location         : "Stanford,CA"
+  bio              : 
+  location         : "Austin, TX"
   employer         :
   googlescholar    : 
   email            : "ehlemmerman@alumni.stanford.edu"
