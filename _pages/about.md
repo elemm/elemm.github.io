@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-My name is Emily Honda Lemmerman, and I'm a senior at Stanford University studying Sociology, with a focus on computational / quantitative methods. I'm interested in examining issues of racial and economic justice, as well as the future of technology, and how those things might intersect. 
+My name is Emily Honda Lemmerman, and I studied Sociology at Stanford University with a focus on computational / quantitative methods. I'm interested in examining issues of racial and economic justice, as well as the future of technology, and how those things might intersect.
