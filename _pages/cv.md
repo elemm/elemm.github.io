@@ -35,25 +35,25 @@ Relevant Coursework
 Work experience
 ======
 * Dec 2019 ~ Apr 2020: Senior Data Analyst
-  **Bernie Sanders for President**
+  <br/>**Bernie Sanders for President**
   * Used SQL and R to determine strategic opportunities in the campaign’s SMS recruitment program - increasing conversion rates by 18%.
   * Automated and optimized processes that allowed us to scale a historically large program - sending over 100 million texts and recruiting for 20,000 events.
 
 * Jul 2019 ~ Nov 2019: Operations Financial Analyst
-  **Amazon.com**
+  <br/>**Amazon.com**
   * Assisted in annual operational planning process, variance analysis against other facilities in the Amazon network to drive cost-savings at SAT2 Fulfillment Center in San Marcos, TX.
   * Conducted ad-hoc analyses using SQL and set up analytic pipelines to drive continuous improvement across the warehouse operation. Managed month-end close processes for fixed and variable cost centers.
 
 * Sept 2018 ~ Jun 2019: Research Assistant
-  **Computational Policy Lab](https://www.policylab.stanford.edu)**
+  <br/>**[Computational Policy Lab](https://www.policylab.stanford.edu)**
   * Conducted statistical analysis in R and Python, filing freedom of information act (FOIA) requests, maintaining relationships with government stakeholders on projects related to pre-trial risk assessments, fines and fees assessed in the criminal justice system under Prof. Sharad Goel.
 
 * Summer 2018: Summer Law Clerk
-  **Eviction Defense Collaborative**
+  <br/>**Eviction Defense Collaborative**
   * Conducting client intake interviews, writing motions and stays for eviction lawsuits.
 
 * Dec 2017 ~ Feb 2018: Research Assistant
-  **Shorenstein Asia-Pacific Research Center**, under professor Phillip Lipscy
+  <br/>**Shorenstein Asia-Pacific Research Center**, under professor Phillip Lipscy
   * Japanese-English translation, data analysis in R.
 
 
