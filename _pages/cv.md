@@ -35,13 +35,12 @@ Experience
 
 Education
 ======
-### Stanford University
-    <br/>B.A. Sociology, *conferred with Honors*
+Stanford University
+    <br/>B.A. Sociology, _conferred with Honors_
     * senior honors thesis entitled "The Persistence of Detention as Punishment for Failure to Pay Fines:
  A Case Study in El Paso, TX"
 
-Relevant Coursework
-======
+###### Relevant Coursework:
 [Computational Journalism](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20172018&q=comm177a&collapse=)
 
 [Investigative Journalism](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20172018&q=comm177i&collapse=)
@@ -55,9 +54,6 @@ Relevant Coursework
 [Qualitative Research Methodology](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20172018&q=humbio82a&collapse=)
 
 [Visual Design Fundamentals](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=DESINST%20270:%20VISUAL%20DESIGN%20FUNDAMENTALS&academicYear=20152016)
-
-
-
 
 Skills
 ======
