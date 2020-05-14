@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-Stanford University B.A. Sociology, conferred with Honors 
-  * senior honors thesis entitled "The Persistence of Detention as Punishment for Failure to Pay Fines:
+Stanford University B.A. Sociology, conferred with Honors
+    * senior honors thesis entitled "The Persistence of Detention as Punishment for Failure to Pay Fines:
  A Case Study in El Paso, TX"
 
 Relevant Coursework
@@ -34,23 +34,29 @@ Relevant Coursework
 
 Work experience
 ======
+* Dec 2019 ~ Apr 2020: Senior Data Analyst
+  **Bernie Sanders for President**
+  * Used SQL and R to determine strategic opportunities in the campaign’s SMS recruitment program - increasing conversion rates by 18%.
+  * Automated and optimized processes that allowed us to scale a historically large program - sending over 100 million texts and recruiting for 20,000 events.
+
+* Jul 2019 ~ Nov 2019: Operations Financial Analyst
+  **Amazon.com**
+  * Assisted in annual operational planning process, variance analysis against other facilities in the Amazon network to drive cost-savings at SAT2 Fulfillment Center in San Marcos, TX.
+  * Conducted ad-hoc analyses using SQL and set up analytic pipelines to drive continuous improvement across the warehouse operation. Managed month-end close processes for fixed and variable cost centers.
+
 * Sept 2018 ~ Jun 2019: Research Assistant
-  * [Computational Policy Lab](https://www.policylab.stanford.edu)
-  * Duties included: data analysis in R
-  
-* March 2018 ~ Dec 2018: Editorial Intern
-  * Stanford Law School Communications
-  * Duties included: fact-checking, copy-editing for Stanford Law magazine
-  
+  **Computational Policy Lab](https://www.policylab.stanford.edu)**
+  * Conducted statistical analysis in R and Python, filing freedom of information act (FOIA) requests, maintaining relationships with government stakeholders on projects related to pre-trial risk assessments, fines and fees assessed in the criminal justice system under Prof. Sharad Goel.
+
 * Summer 2018: Summer Law Clerk
-  * Eviction Defense Collaborative 
+  **Eviction Defense Collaborative**
   * Conducting client intake interviews, writing motions and stays for eviction lawsuits.
 
-* Dec 2017 ~ Feb 2018: Research Assistant 
-  * Shorenstein Asia-Pacific Research Center, under professor Phillip Lipscy 
+* Dec 2017 ~ Feb 2018: Research Assistant
+  **Shorenstein Asia-Pacific Research Center**, under professor Phillip Lipscy
   * Japanese-English translation, data analysis in R.
-  
-  
+
+
 Skills
 ======
 * R
@@ -58,11 +64,11 @@ Skills
 * Git
 * Python - SciPy, NumPy, NetworkX
 * HTML / CSS
-* Java 
+* Java
 * C++
 * Tableau, CartoDB
 * FOIA requests
-* Building webapps 
+* Building webapps
 * Data visualization in plot.ly, shiny
 * Adobe Photoshop, Illustrator, InDesign
 
@@ -92,10 +98,10 @@ Clips
 
 [Reporting from IRE Conference - Mind to Mind panelists suggest keeping the human factor in algorithms](https://medium.com/@StanfordJournalism/mind-to-mind-panelists-suggest-keeping-the-human-factor-in-algorithms-5e8196dfa065)
 
-  
+
 Service and leadership
 ======
  East Palo Alto Stanford Academy - Mentor / Tutor
- <br/>National Lawyers Guild Legal Observer 
- <br/> Led Alternative Spring Break trip at Stanford on gentrification in the Bay Area & co-taught student-initiated course course 
+ <br/>National Lawyers Guild Legal Observer
+ <br/> Led Alternative Spring Break trip at Stanford on gentrification in the Bay Area & co-taught student-initiated course course
  <br/>[Co-created, taught student-initiated course for 2 years on critically considering texts in the Western Canon, to run alongside Stanford's Great Books program](https://expandingthecurriculum.wordpress.com/)
