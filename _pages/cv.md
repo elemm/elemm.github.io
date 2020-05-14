@@ -35,7 +35,7 @@ Experience
 
 Education
 ======
-###Stanford University
+### Stanford University
     <br/>B.A. Sociology, *conferred with Honors*
     * senior honors thesis entitled "The Persistence of Detention as Punishment for Failure to Pay Fines:
  A Case Study in El Paso, TX"
