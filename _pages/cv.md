@@ -9,30 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-Stanford University B.A. Sociology, conferred with Honors
-    * senior honors thesis entitled "The Persistence of Detention as Punishment for Failure to Pay Fines:
- A Case Study in El Paso, TX"
-
-Relevant Coursework
-======
-[Computational Journalism](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20172018&q=comm177a&collapse=)
-
-[Investigative Journalism](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20172018&q=comm177i&collapse=)
-
-[Intro to Journalism](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20172018&q=comm104w&collapse=)
-
-[Advanced Data Analysis in R](https://datalab.stanford.edu)
-
-[Data Mining & Analysis](http://web.stanford.edu/class/stats202/)
-
-[Qualitative Research Methodology](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20172018&q=humbio82a&collapse=)
-
-[Visual Design Fundamentals](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=DESINST%20270:%20VISUAL%20DESIGN%20FUNDAMENTALS&academicYear=20152016)
-
-
-Work experience
+Experience
 ======
 * Dec 2019 ~ Apr 2020: Senior Data Analyst
   <br/>**Bernie Sanders for President**
@@ -55,6 +32,31 @@ Work experience
 * Dec 2017 ~ Feb 2018: Research Assistant
   <br/>**Shorenstein Asia-Pacific Research Center**, under professor Phillip Lipscy
   * Japanese-English translation, data analysis in R.
+
+Education
+======
+###Stanford University
+    <br/>B.A. Sociology, *conferred with Honors*
+    * senior honors thesis entitled "The Persistence of Detention as Punishment for Failure to Pay Fines:
+ A Case Study in El Paso, TX"
+
+Relevant Coursework
+======
+[Computational Journalism](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20172018&q=comm177a&collapse=)
+
+[Investigative Journalism](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20172018&q=comm177i&collapse=)
+
+[Intro to Journalism](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20172018&q=comm104w&collapse=)
+
+[Advanced Data Analysis in R](https://datalab.stanford.edu)
+
+[Data Mining & Analysis](http://web.stanford.edu/class/stats202/)
+
+[Qualitative Research Methodology](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20172018&q=humbio82a&collapse=)
+
+[Visual Design Fundamentals](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=DESINST%20270:%20VISUAL%20DESIGN%20FUNDAMENTALS&academicYear=20152016)
+
+
 
 
 Skills
