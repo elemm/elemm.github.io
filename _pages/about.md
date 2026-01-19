@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD student at MIT's Institute for Work and Employment Research </a>
+subtitle: PhD student at MIT's Institute for Work and Employment Research
 
 profile:
   align: right
@@ -26,5 +26,5 @@ latest_posts:
 
 Former union and political organizer studying work and unions at MIT.
 
-[Download my CV](/assets/pdf/CV.01.2026.pdf){:target="_blank"}
+[Find my CV here](/assets/pdf/CV.01.2026.pdf){:target="_blank"}
 
