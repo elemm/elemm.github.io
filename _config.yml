@@ -192,6 +192,12 @@ exclude:
   - _pages
   - _posts/
   - _projects/?_project.md
+  - _pages/publications.md
+  - _pages/projects.md
+  - _pages/teaching.md
+  - _pages/repositories.md
+  - _pages/profiles.md
+  - _pages/blog.md
   - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
