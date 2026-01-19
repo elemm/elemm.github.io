@@ -7,10 +7,10 @@ subtitle: PhD student at MIT's Institute for Work and Employment Research
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -25,6 +25,6 @@ latest_posts:
 ---
 
 Former union and political organizer studying work and unions at MIT.
-
 [Find my CV here](/assets/pdf/CV.01.2026.pdf){:target="_blank"}
+
 
