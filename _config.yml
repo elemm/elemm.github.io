@@ -191,7 +191,6 @@ exclude:
   - _pages
   - _posts/
   - _projects/?_project.md
-  - _pages/publications.md
   - _pages/projects.md
   - _pages/teaching.md
   - _pages/repositories.md
@@ -271,7 +270,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Lemmerman]
-  first_name: [Emily, E.]
+  first_name: [Emily]
 
   style: apa
   locale: en
