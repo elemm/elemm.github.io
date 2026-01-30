@@ -25,6 +25,6 @@ latest_posts:
 ---
 
 Former union and political organizer studying work and unions at MIT.
-[Find my CV here](/assets/pdf/CV.01.2026.pdf){:target="_blank"}
+[Find my CV here](/assets/pdf/LemmermanCV_01_2026.pdf){:target="_blank"}
 
 
